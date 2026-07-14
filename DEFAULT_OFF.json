@@ -1,0 +1,215 @@
+{
+  "events": [
+    {
+      "t": 5.0,
+      "kind": "wait",
+      "data": {},
+      "uid": "3531bf14"
+    },
+    {
+      "t": 0.36123,
+      "kind": "key_down",
+      "data": {
+        "key": "special:space"
+      },
+      "uid": "c386236d"
+    },
+    {
+      "t": 0.3715,
+      "kind": "key_up",
+      "data": {
+        "key": "special:space"
+      },
+      "uid": "0d87c447"
+    },
+    {
+      "t": 1.2075482001528144,
+      "kind": "key_down",
+      "data": {
+        "key": "special:alt_l"
+      },
+      "uid": "335e2110"
+    },
+    {
+      "t": 1.25,
+      "kind": "key_down",
+      "data": {
+        "key": "char:ě"
+      },
+      "uid": "e6ba5f01"
+    },
+    {
+      "t": 1.30692199992016,
+      "kind": "key_up",
+      "data": {
+        "key": "char:ě"
+      },
+      "uid": "03be80b6"
+    },
+    {
+      "t": 1.3374691000487655,
+      "kind": "key_up",
+      "data": {
+        "key": "special:alt_l"
+      },
+      "uid": "1b886697"
+    },
+    {
+      "t": 5.778001800170168,
+      "kind": "key_down",
+      "data": {
+        "key": "special:space"
+      },
+      "uid": "52a44c2d"
+    },
+    {
+      "t": 5.8011,
+      "kind": "key_up",
+      "data": {
+        "key": "special:space"
+      },
+      "uid": "1dd023b8"
+    },
+    {
+      "t": 6.318197200074792,
+      "kind": "key_down",
+      "data": {
+        "key": "special:alt_l"
+      },
+      "uid": "fffbabc3"
+    },
+    {
+      "t": 6.528181600105017,
+      "kind": "key_down",
+      "data": {
+        "key": "char:š"
+      },
+      "uid": "02ef4ad0"
+    },
+    {
+      "t": 6.638184700114652,
+      "kind": "key_up",
+      "data": {
+        "key": "char:š"
+      },
+      "uid": "61d99eb7"
+    },
+    {
+      "t": 6.788303200015798,
+      "kind": "key_up",
+      "data": {
+        "key": "special:alt_l"
+      },
+      "uid": "0e8c650c"
+    },
+    {
+      "t": 11.325,
+      "kind": "key_down",
+      "data": {
+        "key": "special:space"
+      },
+      "uid": "2e81749f"
+    },
+    {
+      "t": 11.36,
+      "kind": "key_up",
+      "data": {
+        "key": "special:space"
+      },
+      "uid": "ef634a49"
+    },
+    {
+      "t": 11.7,
+      "kind": "key_down",
+      "data": {
+        "key": "special:alt_l"
+      },
+      "uid": "031231fc"
+    },
+    {
+      "t": 11.75,
+      "kind": "key_down",
+      "data": {
+        "key": "char:č"
+      },
+      "uid": "1af9a584"
+    },
+    {
+      "t": 11.798,
+      "kind": "key_up",
+      "data": {
+        "key": "char:č"
+      },
+      "uid": "da8b47bd"
+    },
+    {
+      "t": 11.84,
+      "kind": "key_up",
+      "data": {
+        "key": "special:alt_l"
+      },
+      "uid": "3cf2fb85"
+    },
+    {
+      "t": 16.2512,
+      "kind": "key_down",
+      "data": {
+        "key": "special:space"
+      },
+      "uid": "8d807e18"
+    },
+    {
+      "t": 16.28104,
+      "kind": "key_up",
+      "data": {
+        "key": "special:space"
+      },
+      "uid": "e214b826"
+    },
+    {
+      "t": 17.51,
+      "kind": "key_down",
+      "data": {
+        "key": "special:alt_l"
+      },
+      "uid": "ef907168"
+    },
+    {
+      "t": 17.64,
+      "kind": "key_down",
+      "data": {
+        "key": "char:+"
+      },
+      "uid": "619c39ad"
+    },
+    {
+      "t": 17.7,
+      "kind": "key_up",
+      "data": {
+        "key": "char:+"
+      },
+      "uid": "72478534"
+    },
+    {
+      "t": 17.8,
+      "kind": "key_up",
+      "data": {
+        "key": "special:alt_l"
+      },
+      "uid": "8fcfbeb1"
+    },
+    {
+      "t": 18.0,
+      "kind": "wait",
+      "data": {},
+      "uid": "822fe628"
+    }
+  ],
+  "loops": 0,
+  "speed": 1.0,
+  "jitter": 13,
+  "start_delay": 2.0,
+  "created": 1783773202.4725125,
+  "modified": 1783852018.1433918,
+  "run_count": 1
+}

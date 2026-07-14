@@ -1,0 +1,5 @@
+PyQt5>=5.15,<5.16
+pynput>=1.7,<2.0
+
+# Volitelné pro build .exe (viz build_exe.py):
+# pyinstaller>=6.0
